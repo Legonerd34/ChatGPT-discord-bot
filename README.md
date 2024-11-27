@@ -15,4 +15,5 @@ npm install
 ```
 npm run start
 ```
+<b>You will need to create your own discord bot, this can be a little teadious but all the tokens needed are labelled in the index.js file for what you need.</b>
 
