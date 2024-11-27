@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || "PORT";
 
-const post_url = "https://dh0wkzi4.run.nodescript.dev/chatgpt-bot";
+const post_url = "NODESCRIPT_API_CALL_URL";
 
 // Basic route to respond to UptimeRobot pings
 app.get('/', (req, res) => {
